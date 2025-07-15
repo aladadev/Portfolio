@@ -1,8 +1,8 @@
 # 🚀 3D Developer Portfolio
 
 A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects — designed to help you stand out and showcase your skills creatively.
+<img width="1915" height="915" alt="Screenshot from 2025-07-16 05-42-25" src="https://github.com/user-attachments/assets/becaaf1d-0374-4a2f-b299-bac7b00de97d" />
 
-![3d Portfolio Screenshot GitHub](https://github.com/user-attachments/assets/9b0ed20e-074e-4f2a-81d8-20c9da751e9e)
 
 ---
 
